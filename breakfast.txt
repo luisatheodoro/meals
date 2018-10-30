@@ -1,2 +1,5 @@
-puts "Yogurt"
-puts "strawberry"
+Yogurt
+Strawberries
+
+Coffee
+Nothing else
